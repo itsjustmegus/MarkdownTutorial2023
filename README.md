@@ -24,7 +24,7 @@ This is a repository for my Python program.
 
 | Languages | Semesters Studied |
 | :---: | :--- |
-| Java | 2 |
-| C++ | 2 |
-| Python | 1 |
-| html | 1 |
+| Java | 4 |
+| C++ | 4 |
+| Python | 3 |
+| html | 2 |
