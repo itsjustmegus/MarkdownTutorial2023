@@ -8,7 +8,7 @@ This is a repository for my Python program.
 - However, it is *still* **unforgiving, especially with spacing**
 
 ## Some of My Assignments so Far This Semester
-1. suare_calculator.py
+1. square_calculator.py
 2. payroll.py
 3. is_it_positive.py
 4. nested_if_statements.py
